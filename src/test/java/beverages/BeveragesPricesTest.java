@@ -1,10 +1,8 @@
 package beverages;
 
-import beverages.*;
 import org.assertj.core.api.Assertions;
 import org.assertj.core.data.Offset;
 import org.junit.jupiter.api.Test;
-
 
 import static org.assertj.core.api.Assertions.assertThat;
 public class BeveragesPricesTest {
